@@ -1,5 +1,7 @@
 👋 Hi, I’m @official-kundansharma
+<br>
 👀 I’m passionate about Android development, video editing, and creating innovative solutions through technology.
+<br>
 🌱 I’m currently learning Data Structures, Algorithms, and building projects in Android Development.
 💞️ I’m looking to collaborate on open-source projects, hackathons, and impactful software solutions.
 📫 How to reach me: kundankumarbhaur@gmail.com | LinkedIn
